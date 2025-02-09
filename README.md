@@ -77,7 +77,8 @@ Este projeto utiliza a placa **BitDogLab** para controlar diversos componentes e
 ## Autor
 
 - **Seu Nome**: Letícia Galvão
-- **Link Vídeo**: 
+- **Link Vídeo**: https://drive.google.com/file/d/15HcxfJP7FLPPVGXk7Q4P2JzCo0DW01pW/view?usp=sharing
+  
 
 
 
