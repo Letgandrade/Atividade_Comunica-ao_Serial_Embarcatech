@@ -50,7 +50,7 @@ Este projeto utiliza a placa **BitDogLab** para controlar diversos componentes e
 
 ### 4. Utilização do Display OLED SSD1306
 
-- O display 128x64 é utilizado para exibição de caracteres maiúsculos e minúsculos, demonstrando o uso do **protocolo I2C**.
+- O display 128x64 é utilizado para exibição de caracteres, demonstrando o uso do **protocolo I2C**.
 
 ### 5. Envio de Informação pela Serial
 
@@ -65,14 +65,9 @@ Este projeto utiliza a placa **BitDogLab** para controlar diversos componentes e
 ### 1. Configurar o Ambiente
 
 - Certifique-se de ter o **VS Code** instalado com a extensão **Pico SDK**.
-- Clone este repositório:
-  ```sh
-  git clone https://github.com/seu-usuario/nome-do-repositorio.git
-  ```
-- Acesse a pasta do projeto:
-  ```sh
-  cd nome-do-repositorio
-  ```
+- Clone este repositório
+ 
+- Acesse a pasta do projeto
 
 ### 2. Compilar e Fazer Upload do Código
 
