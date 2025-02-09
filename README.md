@@ -69,11 +69,7 @@ Este projeto utiliza a placa **BitDogLab** para controlar diversos componentes e
  
 - Acesse a pasta do projeto
 
-### 2. Compilar e Fazer Upload do Código
-
-- Compile o projeto utilizando o **CMake** e envie o binário para a placa.
-
-### 3. Monitorar a Execução
+### 2. Monitorar a Execução
 
 - Abra o **Serial Monitor** no VS Code para interagir com o projeto.
 
